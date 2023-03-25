@@ -1,5 +1,5 @@
 ### Hi there 👋
-# Hi, I’m Abdighani
+# I’m Abdighani
 - 🧑‍💻 I'm a Software Engineer
 - 🌱 I’m currently learning Advanced Data structures & Algorithms and AWS, Test-driven development.
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development projects.
