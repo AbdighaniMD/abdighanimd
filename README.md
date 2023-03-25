@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb)](https://skillicons.dev)
 
 ## Familiar 
-[![My Skills](https://skillicons.dev/icons?i=jest,redis,ts,py,nextjs,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,jest,redis,nextjs,aws)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,vite)](https://skillicons.dev)
