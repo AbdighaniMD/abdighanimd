@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I’m Abdighani
 - 🧑‍💻 I'm a Software Engineer
-- 🌱 I’m currently learning Advanced Data structures & Algorithms and AWS, Test-driven development.
+- 🌱 I’m currently learning Data structures & Algorithms (improving on leetcode), System design, & AWS.
 - 👯 I’m looking to collaborate on Machine Learning, Software Engineering and Blockchain Development projects.
 - 💬 Ask me about anything
 - 📫 Reach me at AbdighaniMD@outlook.com
@@ -13,7 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb)](https://skillicons.dev)
 
 ## Familiar 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,jest,redis,nextjs,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts,nextjs,githubactions,redis,graphql,linux,aws)](https://skillicons.dev)
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,webpack,vite)](https://skillicons.dev)
