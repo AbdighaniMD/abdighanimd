@@ -16,7 +16,7 @@
 [![My Skills](https://skillicons.dev/icons?i=py,ts,nextjs,githubactions,redis,graphql,linux,aws)](https://skillicons.dev)
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,webpack,vite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,vite)](https://skillicons.dev)
 
 ### My LinkedIn
 [![AbdighaniMD Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdighani/)
