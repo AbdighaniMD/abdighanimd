@@ -1,12 +1,12 @@
 ### Hi there 👋
 # I’m Abdighani
 - 🧑‍💻 I'm a Software Engineer
-- 🌱 I’m currently learning T3-Stack, Data-Pipeline, AWS/GCP
-- 📈 I’m currently improving on my Data structures & Algorithms along with System Design.
-- 👯 I’m looking to collaborate on Software|Data Engineering projects.
+- 🌱 I’m currently interested in learning T3-Stack, Data-Pipeline, AWS/GCP
+- 📈 I’m currently improving on my Data Structures & Algorithms along with System Design.
+- 👯 I’m looking to collaborate on Data|Software Engineering projects.
 - 💬 Ask me about anything
 - 📫 Reach me at AbdighaniMD@outlook.com
-- ⚡ Fun fact: Financial markets appeal to me because each day is distinct and exciting. Also, i like to watch trending movies and tv shows. 
+- ⚡ Fun fact: Financial markets appeal to me because each day is distinct and exciting environment. Also, i like to watch trending movies and tv shows. 
 
 ## FontEnd
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
