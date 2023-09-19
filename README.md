@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,vite)](https://skillicons.dev)
 
 ## Currently Learning
-[![My Skills](https://skillicons.dev/icons?i=go,githubactions,linux,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,go,githubactions,linux,aws)](https://skillicons.dev)
 
 ### My LinkedIn
 [![AbdighaniMD Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdighani/)
