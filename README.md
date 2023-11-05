@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I’m Abdighani
 - 🧑‍💻 I'm a Software Engineer
-- 🌱 I’m currently interested in learning T3-Stack, Data-Pipeline, AWS/GCP
+- 🌱 I’m currently interested in learning Microservices, Data-Pipeline, AWS/GCP
 - 📈 I’m currently improving on my Data Structures & Algorithms along with System Design.
 - 👯 I’m looking to collaborate on Data|Software Engineering projects.
 - 💬 Ask me about anything
