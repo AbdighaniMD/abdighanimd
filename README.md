@@ -3,7 +3,7 @@
 - 🧑‍💻 I'm a Software Engineer
 - 🌱 I’m currently interested in learning Microservices, Data-Pipeline, AWS/GCP
 - 📈 I’m currently improving on my Data Structures & Algorithms along with System Design.
-- 👯 I’m looking to collaborate on Data|Software Engineering projects.
+- 👯 I’m looking to collaborate on Data | Software Engineering projects.
 - 💬 Ask me about anything
 - 📫 Reach me at AbdighaniMD@outlook.com
 - ⚡ Fun fact: Financial markets appeal to me because each day is distinct and exciting environment. Also, i like to watch trending movies and tv shows. 
