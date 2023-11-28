@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb)](https://skillicons.dev)
 
 ## Familiar 
-[![My Skills](https://skillicons.dev/icons?i=py,ts,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,ts)](https://skillicons.dev)
 
 ## Currently Learning
 [![My Skills](https://skillicons.dev/icons?i=nextjs,go,githubactions,linux,aws)](https://skillicons.dev)
